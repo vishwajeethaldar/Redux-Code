@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "title": "Standup",
+      "status": true,
+      "id": 5
+    },
+    {
+      "title": "Professionalism",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "New Todo Item",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "sdsdsdsd",
+      "status": false,
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
