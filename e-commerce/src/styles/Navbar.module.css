@@ -1,0 +1,23 @@
+.navbar{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+}
+
+.logout{
+    position: absolute;
+    top: 1px;
+    right: 50px;
+
+}
+.logout button{
+    background-color: black;
+    color: #fff;
+    font-size: 16px;
+}
+
+.logout button:hover{
+    cursor: pointer;
+}
